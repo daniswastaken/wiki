@@ -4,7 +4,13 @@ layout: home
 
 hero:
   name: "Bedrock Perfected"
-  text: "A Wiki For You!"
+  text: "Made To Perfect Your Experience."
+  tagline: "You'll find everything about Bedrock Perfected here!"
+
+  image:
+    src: /hero.svg
+    alt: Bedrock Perfected blur hero logo
+
   actions:
     - theme: brand
       text: Browse the Wiki
