@@ -8,7 +8,7 @@ hero:
   tagline: "You'll find everything about Bedrock Perfected here!"
 
   image:
-    src: /hero.svg
+    src: /logo.svg
     alt: Bedrock Perfected blur hero logo
 
   actions:
@@ -22,9 +22,9 @@ hero:
 features:
   - title: What's This?
     details: This is the wiki of Bedrock Perfected addon, every single feature from the addon are listed and shown here.
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Found Bugs?
+    details: Make an issue request on GitHub or submit a bug report through the Discord server!
+  - title: Want To Contribute?
+    details: You got an ideas or want to join the dev teams? Send me an email or DM me on Discord!
 ---
 
