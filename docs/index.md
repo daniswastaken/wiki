@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text: Browse the Wiki
-      link: /markdown-examples
+      link: /getting-started/how-to-navigate-the-wiki
     - theme: alt
       text: Updates
-      link: /api-examples
+      link: /updates/26-1-0
 
 features:
   - icon: 🔍
