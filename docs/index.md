@@ -20,11 +20,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: What's This?
+  - icon: 🔍
+    title: What's This?
     details: This is the wiki of Bedrock Perfected addon, every single feature from the addon are listed and shown here.
-  - title: Found Bugs?
+  - icon: 🪲
+    title: Found Bugs?
     details: Make an issue request on GitHub or submit a bug report through the Discord server!
-  - title: Want To Contribute?
+  - icon: ❤️
+    title: Want To Contribute?
     details: You got an ideas or want to join the dev teams? Send me an email or DM me on Discord!
 ---
 

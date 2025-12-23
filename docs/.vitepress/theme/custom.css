@@ -1,5 +1,11 @@
 :root {
   --vp-home-hero-name-color: transparent;
+
+  
+
+  --vp-font-family-base:
+    'Vazirmatn', 'Inter', ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
     #EA4335 30%,
@@ -16,6 +22,8 @@
   --vp-home-hero-image-filter: blur(44px);
 }
 
+
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
@@ -31,4 +39,16 @@
 .VPHero .VPImage {
   filter: drop-shadow(-2px 4px 6px rgba(0, 0, 0, 0.2));
   padding: 18px;
+}
+
+/* Search button background */
+.VPNavBarSearch .DocSearch-Button {
+  background-color: #161618;
+  color: #98969a;
+  border-radius: 10px;
+}
+
+/* Hover state */
+.VPNavBarSearch .DocSearch-Button:hover {
+  background-color: #1f2023;
 }
