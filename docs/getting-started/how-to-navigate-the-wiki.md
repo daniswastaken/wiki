@@ -1,6 +1,6 @@
-# Markdown Extension Examples
+# How To Navigate the Wiki
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+This page is a guide on how to navigate around the wiki both on Desktop or Mobile.
 
 ## Syntax Highlighting
 

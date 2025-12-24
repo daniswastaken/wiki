@@ -22,12 +22,14 @@ export default defineConfig({
         sidebar: [
             {
                 text: "Getting Started",
+                collapsed: false,
                 items: [
                     { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
                 ],
             },
             {
                 text: "Updates",
+                collapsed: false,
                 items: [{ text: "v26.1", link: "/updates/26-1-0" }],
             },
         ],
