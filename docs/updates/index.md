@@ -5,7 +5,7 @@ title: Redirecting...
 
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.replace('/getting-started/how-to-navigate-the-wiki')
+  window.location.replace('/updates/26-1-0')
 }
 </script>
 
