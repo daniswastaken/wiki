@@ -36,7 +36,7 @@ export default defineConfig({
 
         socialLinks: [
             { icon: "github", link: "https://github.com/daniswastaken/bedrock-perfected" },
-            { icon: "discord", link: "https://github.com/daniswastaken/bedrock-perfected" }
+            { icon: "discord", link: "https://discord.gg/R6b8HzYKtg" }
         ],
     },
 });

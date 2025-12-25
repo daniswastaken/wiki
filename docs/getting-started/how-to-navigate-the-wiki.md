@@ -17,4 +17,4 @@ Open the sidebar by clicking the hamburger menu on top left of the screen. You c
 
 ## More
 
-If you still need help with how to browse the wiki, [join the Discord server](https://vitepress.dev/guide/markdown) for further assisting.
+If you still need help with how to browse the wiki, [join the Discord server](https://discord.gg/R6b8HzYKtg) for further assisting.
