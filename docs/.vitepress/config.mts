@@ -28,6 +28,14 @@ export default defineConfig({
                 ],
             },
             {
+                text: "Quality of Life",
+                collapsed: false,
+                items: [
+                    { text: "Craftables", link: "/qol/craftables" },
+                    { text: "Smeltables", link: "/qol/craftables" },
+                ],
+            },
+            {
                 text: "Updates",
                 collapsed: false,
                 items: [{ text: "v26.1", link: "/updates/26-1-0" }],
