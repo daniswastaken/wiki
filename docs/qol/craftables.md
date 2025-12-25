@@ -15,3 +15,37 @@ Ever wanted to craft something but Minecraft just said no? Well now you can craf
 
 ## Crying Obsidian
 ![Crying Obsidian crafting recipe](/src/images/qol/crying-obsidian.webp)
+
+## Budding Amethyst
+![Budding Amethyst crafting recipe](/src/images/qol/budding-amethyst.webp)
+
+## Block of Amethyst
+![Block of Amethyst crafting recipe](/src/images/qol/block-of-amethyst.webp)
+
+## Reinforced Deepslate
+![Reinforced Deepslate crafting recipe](/src/images/qol/reinforced-deepslate.webp)
+
+## Totem of Undying
+![Totem of Undying crafting recipe](/src/images/qol/totem-of-undying.webp)
+
+## Heavy Core
+![Heavy Core crafting recipe](/src/images/qol/heavy-core.webp)
+
+## Bottle o' Enchanting
+![Bottle o' Enchanting crafting recipe](/src/images/qol/bottle-o-enchanting.webp)
+
+## Gravel
+![Gravel crafting recipe](/src/images/qol/gravel.webp)
+
+## Horse Armor
+![Horse Armor crafting recipe](/src/images/qol/horse-armor.webp)
+
+## Shroomlight
+<video autoplay loop muted playsinline>
+  <source src="/src/images/qol/shroomlight.webm" type="video/webm">
+</video>
+
+## Froglight
+<video autoplay loop muted playsinline>
+  <source src="/src/images/qol/froglight.webm" type="video/webm">
+</video>
