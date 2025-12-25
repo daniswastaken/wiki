@@ -32,7 +32,7 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     { text: "Craftables", link: "/qol/craftables" },
-                    { text: "Smeltables", link: "/qol/craftables" },
+                    { text: "Smeltables", link: "/qol/smeltables" },
                 ],
             },
             {
