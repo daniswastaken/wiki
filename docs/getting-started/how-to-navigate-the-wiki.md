@@ -10,54 +10,11 @@ You can also utilize the Search Bar either by pressing `Ctrl + K` or clicking it
 
 ![Desktop search bar highlight](/public/images/getting-started/desktop-search.webp)
 
-## Custom Containers
+## Navigating on Mobile
+Open the sidebar by clicking the hamburger menu on top left of the screen. You can also click the magnifying glass icon to search things up.
 
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
+![Mobile screenshot](/public/images/getting-started/mobile.webp)
 
 ## More
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+If you still need help with how to browse the wiki, [join the Discord server](https://vitepress.dev/guide/markdown) for further assisting.
