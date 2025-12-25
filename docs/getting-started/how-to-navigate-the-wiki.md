@@ -1,36 +1,14 @@
 # How To Navigate the Wiki
-
 This page is a guide on how to navigate around the wiki both on Desktop or Mobile.
 
-## Syntax Highlighting
+## Navigating on Desktop
+Navigating on Desktop is pretty straightforward where you can navigate around using the sidebar to the left side of your screen.
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+![Desktop screenshot](/public/images/getting-started/desktop.webp)
 
-**Input**
+You can also utilize the Search Bar either by pressing `Ctrl + K` or clicking it manually using your mouse and then just type what you want to search up.
 
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
+![Desktop search bar highlight](/public/images/getting-started/desktop-search.webp)
 
 ## Custom Containers
 
