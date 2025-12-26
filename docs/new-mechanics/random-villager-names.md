@@ -1,7 +1,7 @@
 # Random Villager Names
 Every Villager now have their own randomly selected unique name!
 
-::: tip
+::: info
 There is well over 21.000+ unique Villager names!
 :::
 
