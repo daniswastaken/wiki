@@ -42,8 +42,10 @@ export default defineConfig({
                 text: "New Mechanics",
                 collapsed: false,
                 items: [
+                    { text: "Damage Indicator", link: "/new-mechanics/damage-indicator" },
                     { text: "Random Villager Names", link: "/new-mechanics/random-villager-names" },
-                    { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" }
+                    { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" },
+                    { text: "Coordinates Compass", link: "/new-mechanics/coordinates-compass" }
                 ],
             },
             {
