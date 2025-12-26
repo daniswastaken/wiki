@@ -24,7 +24,7 @@ export default defineConfig({
                 text: "Getting Started",
                 collapsed: false,
                 items: [
-                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
+                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" }
                 ],
             },
             {
@@ -36,6 +36,14 @@ export default defineConfig({
                     { text: "Stonecutterables", link: "/qol/stonecutterables" },
                     { text: "Unpackables", link: "/qol/unpackables" },
                     { text: "Just More", link: "/qol/just-more" }
+                ],
+            },
+            {
+                text: "Texture Improvement",
+                collapsed: false,
+                items: [
+                    { text: "Dark UI", link: "/texture-improvement/dark-ui" },
+                    { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" }
                 ],
             },
             {
