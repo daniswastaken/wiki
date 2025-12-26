@@ -24,7 +24,8 @@ export default defineConfig({
                 text: "Getting Started",
                 collapsed: false,
                 items: [
-                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" }
+                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
+                    { text: "New Updates!", link: "/getting-started/new-updates" }
                 ],
             },
             {
