@@ -34,7 +34,8 @@ export default defineConfig({
                     { text: "Craftables", link: "/qol/craftables" },
                     { text: "Smeltables", link: "/qol/smeltables" },
                     { text: "Stonecutterables", link: "/qol/stonecutterables" },
-                    { text: "Unpackables", link: "/qol/unpackables" }
+                    { text: "Unpackables", link: "/qol/unpackables" },
+                    { text: "Just More", link: "/qol/just-more" }
                 ],
             },
             {
