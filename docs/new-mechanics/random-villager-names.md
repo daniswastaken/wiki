@@ -2,7 +2,7 @@
 Every Villager now have their own randomly selected unique name!
 
 ::: info
-There is well over 21.000+ unique Villager names!
+There is well over **21.000+** unique Villager names!
 :::
 
 ![Villager Name](/src/images/new-mechanics/villager-name.webp)
