@@ -1,5 +1,5 @@
 # Craftables
-Ever wanted to craft something but Minecraft just said no? Well now you can craft those item you've been dreaming for! This page gonna guide you about all the item that now become craftable!
+Ever wanted to craft something but Minecraft just said no? Well now you can craft those item you've been dreaming for! This page's gonna guide you about all the item that now become craftable!
 
 ## Trident
 ![Trident crafting recipe](/src/images/qol/craftables/trident.webp)
