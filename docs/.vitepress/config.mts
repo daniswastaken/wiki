@@ -33,6 +33,7 @@ export default defineConfig({
                 items: [
                     { text: "Craftables", link: "/qol/craftables" },
                     { text: "Smeltables", link: "/qol/smeltables" },
+                    { text: "Stonecutterables", link: "/qol/stonecutterables" },
                 ],
             },
             {
