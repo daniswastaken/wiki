@@ -1,5 +1,5 @@
 # Coordinates Compass
-Compass now display your current coordinates when held.
+Compass will now display your current coordinates when being held.
 
 ::: tip
 Try playing with the built-in Minecraft coordinates off so it became a more challenging adventure!
