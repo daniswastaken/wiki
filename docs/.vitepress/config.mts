@@ -39,6 +39,14 @@ export default defineConfig({
                 ],
             },
             {
+                text: "New Mechanics",
+                collapsed: false,
+                items: [
+                    { text: "Random Villager Names", link: "/new-mechanics/random-villager-names" },
+                    { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" }
+                ],
+            },
+            {
                 text: "Texture Improvement",
                 collapsed: false,
                 items: [

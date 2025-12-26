@@ -1,7 +1,9 @@
 :root {
   --vp-home-hero-name-color: transparent;
 
-  
+  --vp-custom-block-tip-border: #2b453a;
+  --vp-custom-block-tip-text: #42d392;
+  --vp-custom-block-tip-bg: #252b29;
 
   --vp-font-family-base:
     'Vazirmatn', 'Inter', ui-sans-serif, system-ui, sans-serif,
