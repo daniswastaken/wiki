@@ -9,3 +9,9 @@ You want to smelt this and that but you can't? Or maybe you thought it would mak
 
 ## Block of Raw Copper
 ![Block of Raw Copper](/src/images/qol/smeltables/block-of-raw-copper.webp)
+
+## Rotten Flesh
+![Rotten Flesh](/src/images/qol/smeltables/rotten-flesh.webp)
+
+## All Saplings
+![All Saplings](/src/images/qol/smeltables/saplings.webp)
