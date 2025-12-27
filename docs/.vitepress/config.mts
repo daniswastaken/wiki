@@ -1,13 +1,15 @@
 import { defineConfig } from "vitepress";
 
+const isGitHubPages = import.meta.env.GITHUB_PAGES === 'true'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/bedrock-perfected-wiki-vite/',
+    base: isGitHubPages ? '/bedrock-perfected-wiki-vite/' : '/',
 
     title: "Bedrock Perfected Wiki",
     description: "A Wiki for Bedrock Perfected Addon",
 
-    head: [["link", { rel: "icon", href: "/bedrock-perfected-wiki-vite/favicon.ico" }]],
+    head: [["link", { rel: "icon", href: isGitHubPages ? '/bedrock-perfected-wiki-vite/favicon.ico' : '/favicon.ico' }]],
 
     cleanUrls: true,
 
