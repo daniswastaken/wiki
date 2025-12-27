@@ -7,7 +7,7 @@ export default defineConfig({
     title: "Bedrock Perfected Wiki",
     description: "A Wiki for Bedrock Perfected Addon",
 
-    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+    head: [["link", { rel: "icon", href: "./public/favicon.ico" }]],
 
     cleanUrls: true,
 
