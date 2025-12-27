@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/bedrock-perfected-wiki-vite/',
+
     title: "Bedrock Perfected Wiki",
     description: "A Wiki for Bedrock Perfected Addon",
 
