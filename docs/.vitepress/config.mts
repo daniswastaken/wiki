@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 
-const isGitHubPages = process.env.GITHUB_PAGES === 'true'
+const isGitHubPages = process.env.VITE_GITHUB_PAGES === 'true'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
