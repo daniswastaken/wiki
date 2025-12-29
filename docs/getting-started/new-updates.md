@@ -4,8 +4,11 @@ title: Redirecting...
 ---
 
 <script setup>
+
+const isGitHubPages = process.env.GITHUB_PAGES === 'true'
+
 if (typeof window !== 'undefined') {
-  window.location.replace('/updates/26-1-0')
+  window.location.replace(isGitHubPages ? '/bedrock-perfected-wiki-vite/updates/26-1-0' : '/updates/26-1-0')
 }
 </script>
 
