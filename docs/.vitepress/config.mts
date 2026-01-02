@@ -57,6 +57,7 @@ export default defineConfig({
                 text: "Texture Improvement",
                 collapsed: false,
                 items: [
+                    { text: "Texture Variation", link: "/texture-improvement/texture-variation" },
                     { text: "Dark UI", link: "/texture-improvement/dark-ui" },
                     { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" }
                 ],
