@@ -67,6 +67,7 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     { text: "Dark UI", link: "/better-ui/dark-ui" },
+                    { text: "No How To Play", link: "/better-ui/no-how-to-play" },
                 ],
             },
             {
