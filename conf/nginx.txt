@@ -1,0 +1,19 @@
+Directory:
+/etc/nginx/sites-available/wiki
+
+Config file:
+server {
+    listen 8001;
+    server_name localhost;
+
+    root /home/daniswastaken/wiki/docs/.vitepress/dist;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
+
+Enable the nginx conf:
+sudo ln -s /etc/nginx/sites-available/wiki /etc/nginx/sites-enabled/
+sudo nginx -t
