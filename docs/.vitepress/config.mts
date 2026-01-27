@@ -29,7 +29,7 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
-                    { text: "New Updates!", link: "/getting-started/new-updates" }
+                    // { text: "New Updates!", link: "/getting-started/new-updates" }
                 ],
             },
             {
