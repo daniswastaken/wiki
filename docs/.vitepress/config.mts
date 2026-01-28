@@ -70,6 +70,7 @@ export default defineConfig({
                     { text: "Brewing Guide UI", link: "/better-ui/brewing-guide-ui" },
                     { text: "Show All Trades", link: "/better-ui/show-all-trades" },
                     { text: "Quick Crafting", link: "/better-ui/quick-crafting" },
+                    { text: "Clearer Wither Hearts", link: "/better-ui/clearer-wither-hearts" },
                     { text: "No How To Play", link: "/better-ui/no-how-to-play" },
                 ],
             },
