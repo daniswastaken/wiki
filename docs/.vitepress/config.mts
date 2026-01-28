@@ -68,6 +68,7 @@ export default defineConfig({
                 items: [
                     { text: "Dark UI", link: "/better-ui/dark-ui" },
                     { text: "Brewing Guide UI", link: "/better-ui/brewing-guide-ui" },
+                    { text: "Show All Trades", link: "/better-ui/show-all-trades" },
                     { text: "Quick Crafting", link: "/better-ui/quick-crafting" },
                     { text: "No How To Play", link: "/better-ui/no-how-to-play" },
                 ],
