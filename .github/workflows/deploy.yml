@@ -42,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Matches your tree: bedrock-perfected-wiki-vite/docs/.vitepress/dist
+          # Matches your tree: wiki/docs/.vitepress/dist
           path: docs/.vitepress/dist
 
   deploy:

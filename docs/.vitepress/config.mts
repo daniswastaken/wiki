@@ -4,12 +4,12 @@ const isGitHubPages = process.env.VITE_GITHUB_PAGES === 'true'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: isGitHubPages ? '/bedrock-perfected-wiki-vite/' : '/',
+    base: isGitHubPages ? '/wiki/' : '/',
 
     title: "Bedrock Perfected Wiki",
     description: "A Wiki for Bedrock Perfected Addon",
 
-    head: [["link", { rel: "icon", href: isGitHubPages ? '/bedrock-perfected-wiki-vite/favicon.ico' : '/favicon.ico' }]],
+    head: [["link", { rel: "icon", href: isGitHubPages ? '/wiki/favicon.ico' : '/favicon.ico' }]],
 
     cleanUrls: true,
 
