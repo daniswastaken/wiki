@@ -10,8 +10,12 @@ server {
     index index.html;
 
     location / {
-        try_files $uri $uri/ =404;
+        # Added $uri.html here
+        try_files $uri $uri.html $uri/ =404;
     }
+
+    # Highly recommended for VitePress
+    error_page 404 /404.html;
 }
 
 Enable the nginx conf:
