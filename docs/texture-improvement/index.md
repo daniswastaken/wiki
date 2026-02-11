@@ -5,7 +5,7 @@ title: Redirecting...
 
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.replace('/texture-improvement/dark-ui')
+  window.location.replace('/texture-improvement/clear-glass')
 }
 </script>
 

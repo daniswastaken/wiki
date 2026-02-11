@@ -66,8 +66,12 @@ export default defineConfig({
                 text: "Texture Improvement",
                 collapsed: false,
                 items: [
+                    { text: "Clear Glass", link: "/texture-improvement/clear-glass" },
                     { text: "Texture Variation", link: "/texture-improvement/texture-variation" },
-                    { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" }
+                    { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" },
+                    { text: "Golden Savanna", link: "/texture-improvement/golden-savanna" },
+                    { text: "Pink End Rods", link: "/texture-improvement/pink-end-rods" },
+                    { text: "Sticky Piston Sides", link: "/texture-improvement/sticky-piston-sides" },
                 ],
             },
             {
