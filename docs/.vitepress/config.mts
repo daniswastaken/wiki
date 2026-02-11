@@ -55,6 +55,14 @@ export default defineConfig({
                 ],
             },
             {
+                text: "New Items",
+                collapsed: false,
+                items: [
+                    { text: "Addon Configuration", link: "/new-items/addon-configuration" },
+                    { text: "Scroll of the Hearth", link: "/new-items/scroll-of-the-hearth" },
+                ],
+            },
+            {
                 text: "Texture Improvement",
                 collapsed: false,
                 items: [
