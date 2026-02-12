@@ -1,9 +1,9 @@
 # Biome Notifier
-You will be notified on what biome you're currently in whenever you cross into a new biome.
+You will be given a brief notification about what biome you're currently in whenever you went into a new biome.
 
 ![Biome Notifier](/src/images/new-mechanics/biome-notifier.webp)
 
-This notifier will also work on custom biomes from other add-ons.
+This Biome Notifier will also work with custom biomes from other add-ons.
 
 ::: info
 Shot with **[Biomes and Beyond](https://mcpedl.com/biomes-and-beyond/)** add-on by **iKorbon**.

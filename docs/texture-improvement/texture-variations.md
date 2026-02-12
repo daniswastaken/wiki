@@ -1,4 +1,4 @@
-# Texture Variation
+# Texture Variations
 These blocks now have a variated texture selection to break up ugly grid patterns.
 
 ## Variated All Planks

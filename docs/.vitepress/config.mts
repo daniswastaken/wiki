@@ -49,6 +49,7 @@ export default defineConfig({
                 items: [
                     { text: "Damage Indicator", link: "/new-mechanics/damage-indicator" },
                     { text: "Biome Notifier", link: "/new-mechanics/biome-notifier" },
+                    { text: "Starter Kits", link: "/new-mechanics/starter-kits" },
                     { text: "Random Villager Names", link: "/new-mechanics/random-villager-names" },
                     { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" },
                     { text: "Coordinates Compass", link: "/new-mechanics/coordinates-compass" }
@@ -67,9 +68,11 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     { text: "Clear Glass", link: "/texture-improvement/clear-glass" },
-                    { text: "Texture Variation", link: "/texture-improvement/texture-variation" },
+                    { text: "Zombie Variations", link: "/texture-improvement/zombie-variations" },
+                    { text: "Texture Variations", link: "/texture-improvement/texture-variations" },
                     { text: "Fancier Sunflower", link: "/texture-improvement/fancier-sunflower" },
                     { text: "Different Stems", link: "/texture-improvement/different-stems" },
+                    { text: "Fully Grown Kelp", link: "/texture-improvement/fully-grown-kelp" },
                     { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" },
                     { text: "Golden Savanna", link: "/texture-improvement/golden-savanna" },
                     { text: "Pink End Rods", link: "/texture-improvement/pink-end-rods" },
