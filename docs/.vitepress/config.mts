@@ -74,6 +74,7 @@ export default defineConfig({
                     { text: "Golden Savanna", link: "/texture-improvement/golden-savanna" },
                     { text: "Pink End Rods", link: "/texture-improvement/pink-end-rods" },
                     { text: "Sticky Piston Sides", link: "/texture-improvement/sticky-piston-sides" },
+                    { text: "Darker Dark Oak Leaves", link: "/texture-improvement/darker-dark-oak-leaves" },
                 ],
             },
             {
