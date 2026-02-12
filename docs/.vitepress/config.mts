@@ -68,6 +68,8 @@ export default defineConfig({
                 items: [
                     { text: "Clear Glass", link: "/texture-improvement/clear-glass" },
                     { text: "Texture Variation", link: "/texture-improvement/texture-variation" },
+                    { text: "Fancier Sunflower", link: "/texture-improvement/fancier-sunflower" },
+                    { text: "Different Stems", link: "/texture-improvement/different-stems" },
                     { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" },
                     { text: "Golden Savanna", link: "/texture-improvement/golden-savanna" },
                     { text: "Pink End Rods", link: "/texture-improvement/pink-end-rods" },
