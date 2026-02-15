@@ -16,7 +16,7 @@ hero:
       text: Browse the Wiki
       link: /getting-started/how-to-navigate-the-wiki
     - theme: alt
-      text: Updates
+      text: What's New
       link: /updates/26-3-0
 
 features:
