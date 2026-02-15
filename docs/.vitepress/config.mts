@@ -100,6 +100,7 @@ export default defineConfig({
                 text: "Updates",
                 collapsed: false,
                 items: [
+                    { text: "v26.3", link: "/updates/26-3-0" },
                     { text: "v26.2.1", link: "/updates/26-2-1" },
                     { text: "v26.2", link: "/updates/26-2-0" },
                     { text: "v26.1", link: "/updates/26-1-0" }
