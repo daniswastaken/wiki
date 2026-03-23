@@ -28,8 +28,8 @@ export default defineConfig({
                 text: "Getting Started",
                 collapsed: false,
                 items: [
-                    { text: "Addon Configurations", link: "/getting-started/addon-configurations" },
                     { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
+                    { text: "Addon Configurations", link: "/getting-started/addon-configurations" },
                     { text: "Latest Updates", link: "/getting-started/new-updates" }
                 ],
             },
