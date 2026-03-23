@@ -28,42 +28,32 @@ export default defineConfig({
                 text: "Getting Started",
                 collapsed: false,
                 items: [
-                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
                     { text: "Addon Configurations", link: "/getting-started/addon-configurations" },
-                    // { text: "New Updates!", link: "/getting-started/new-updates" }
+                    { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
+                    { text: "Latest Updates", link: "/getting-started/new-updates" }
                 ],
             },
             {
-                text: "Quality of Life",
+                text: "Better UI",
                 collapsed: false,
                 items: [
-                    { text: "Craftables", link: "/qol/craftables" },
-                    { text: "Smeltables", link: "/qol/smeltables" },
-                    { text: "Stonecutterables", link: "/qol/stonecutterables" },
-                    { text: "Unpackables", link: "/qol/unpackables" },
-                    { text: "Just More", link: "/qol/just-more" }
+                    { text: "Brewing Guide UI", link: "/better-ui/brewing-guide-ui" },
+                    { text: "Clearer Wither Hearts", link: "/better-ui/clearer-wither-hearts" },
+                    { text: "Dark UI", link: "/better-ui/dark-ui" },
+                    { text: "Lower Shield", link: "/better-ui/lower-shield" },
+                    { text: "No How To Play", link: "/better-ui/no-how-to-play" },
+                    { text: "No Vignette", link: "/better-ui/no-vignette" },
+                    { text: "Quick Crafting", link: "/better-ui/quick-crafting" },
+                    { text: "Show All Trades", link: "/better-ui/show-all-trades" },
                 ],
             },
             {
                 text: "New Biomes",
                 collapsed: false,
                 items: [
-                    { text: "Sunflower Fields", link: "/new-biomes/sunflower-fields" },
+                    { text: "Selena Basin", link: "/new-biomes/selena-basin" },
                     { text: "Sierra", link: "/new-biomes/sierra" },
-                    { text: "Selena Basin", link: "/new-biomes/selena-basin" }
-                ],
-            },
-            {
-                text: "New Mechanics",
-                collapsed: false,
-                items: [
-                    { text: "Damage Indicator", link: "/new-mechanics/damage-indicator" },
-                    { text: "Biome Notifier", link: "/new-mechanics/biome-notifier" },
-                    { text: "Settlement", link: "/new-mechanics/settlement" },
-                    { text: "Starter Kits", link: "/new-mechanics/starter-kits" },
-                    { text: "Random Villager Names", link: "/new-mechanics/random-villager-names" },
-                    { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" },
-                    { text: "Coordinates Compass", link: "/new-mechanics/coordinates-compass" }
+                    { text: "Sunflower Fields", link: "/new-biomes/sunflower-fields" }
                 ],
             },
             {
@@ -75,34 +65,44 @@ export default defineConfig({
                 ],
             },
             {
+                text: "New Mechanics",
+                collapsed: false,
+                items: [
+                    { text: "Biome Notifier", link: "/new-mechanics/biome-notifier" },
+                    { text: "Coordinates Compass", link: "/new-mechanics/coordinates-compass" },
+                    { text: "Damage Indicator", link: "/new-mechanics/damage-indicator" },
+                    { text: "Random Iron Golem Names", link: "/new-mechanics/random-iron-golem-names" },
+                    { text: "Random Villager Names", link: "/new-mechanics/random-villager-names" },
+                    { text: "Settlement", link: "/new-mechanics/settlement" },
+                    { text: "Starter Kits", link: "/new-mechanics/starter-kits" },
+                ],
+            },
+            {
+                text: "Quality of Life",
+                collapsed: false,
+                items: [
+                    { text: "Craftables", link: "/qol/craftables" },
+                    { text: "Just More", link: "/qol/just-more" },
+                    { text: "Smeltables", link: "/qol/smeltables" },
+                    { text: "Stonecutterables", link: "/qol/stonecutterables" },
+                    { text: "Unpackables", link: "/qol/unpackables" },
+                ],
+            },
+            {
                 text: "Texture Improvement",
                 collapsed: false,
                 items: [
                     { text: "Clear Glass", link: "/texture-improvement/clear-glass" },
-                    { text: "Zombie Variations", link: "/texture-improvement/zombie-variations" },
-                    { text: "Texture Variations", link: "/texture-improvement/texture-variations" },
-                    { text: "Fancier Sunflower", link: "/texture-improvement/fancier-sunflower" },
+                    { text: "Darker Dark Oak Leaves", link: "/texture-improvement/darker-dark-oak-leaves" },
                     { text: "Different Stems", link: "/texture-improvement/different-stems" },
+                    { text: "Fancier Sunflower", link: "/texture-improvement/fancier-sunflower" },
                     { text: "Fully Grown Kelp", link: "/texture-improvement/fully-grown-kelp" },
-                    { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" },
                     { text: "Golden Savanna", link: "/texture-improvement/golden-savanna" },
                     { text: "Pink End Rods", link: "/texture-improvement/pink-end-rods" },
                     { text: "Sticky Piston Sides", link: "/texture-improvement/sticky-piston-sides" },
-                    { text: "Darker Dark Oak Leaves", link: "/texture-improvement/darker-dark-oak-leaves" },
-                ],
-            },
-            {
-                text: "Better UI",
-                collapsed: false,
-                items: [
-                    { text: "Dark UI", link: "/better-ui/dark-ui" },
-                    { text: "Brewing Guide UI", link: "/better-ui/brewing-guide-ui" },
-                    { text: "Show All Trades", link: "/better-ui/show-all-trades" },
-                    { text: "Quick Crafting", link: "/better-ui/quick-crafting" },
-                    { text: "Lower Shield", link: "/better-ui/lower-shield" },
-                    { text: "Clearer Wither Hearts", link: "/better-ui/clearer-wither-hearts" },
-                    { text: "No Vignette", link: "/better-ui/no-vignette" },
-                    { text: "No How To Play", link: "/better-ui/no-how-to-play" },
+                    { text: "Texture Variations", link: "/texture-improvement/texture-variations" },
+                    { text: "Villager Skin Tones", link: "/texture-improvement/villager-skin-tones" },
+                    { text: "Zombie Variations", link: "/texture-improvement/zombie-variations" },
                 ],
             },
             {

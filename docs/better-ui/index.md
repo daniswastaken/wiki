@@ -5,7 +5,7 @@ title: Redirecting...
 
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.replace('/better-ui/dark-ui')
+  window.location.replace('/better-ui/brewing-guide-ui')
 }
 </script>
 
