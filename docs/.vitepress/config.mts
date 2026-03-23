@@ -45,6 +45,15 @@ export default defineConfig({
                 ],
             },
             {
+                text: "New Biomes",
+                collapsed: false,
+                items: [
+                    { text: "Sunflower Fields", link: "/new-biomes/sunflower-fields" },
+                    { text: "Sierra", link: "/new-biomes/sierra" },
+                    { text: "Selena Basin", link: "/new-biomes/selena-basin" }
+                ],
+            },
+            {
                 text: "New Mechanics",
                 collapsed: false,
                 items: [
