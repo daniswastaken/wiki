@@ -30,7 +30,7 @@ export default defineConfig({
                 items: [
                     { text: "How To Navigate the Wiki", link: "/getting-started/how-to-navigate-the-wiki" },
                     { text: "Addon Configurations", link: "/getting-started/addon-configurations" },
-                    { text: "Latest Updates", link: "/getting-started/new-updates" }
+                    // { text: "Latest Updates", link: "/getting-started/new-updates" }
                 ],
             },
             {
@@ -54,6 +54,15 @@ export default defineConfig({
                     { text: "Selena Basin", link: "/new-biomes/selena-basin" },
                     { text: "Sierra", link: "/new-biomes/sierra" },
                     { text: "Sunflower Fields", link: "/new-biomes/sunflower-fields" }
+                ],
+            },
+            {
+                text: "New Structures",
+                collapsed: false,
+                items: [
+                    { text: "Carriage", link: "/new-structures/carriage" },
+                    { text: "Crops", link: "/new-structures/crops" },
+                    { text: "Lumber Piles", link: "/new-structures/lumber-piles" },
                 ],
             },
             {
@@ -109,6 +118,7 @@ export default defineConfig({
                 text: "Updates",
                 collapsed: false,
                 items: [
+                    { text: "v26.5", link: "/updates/26-5-0" },
                     { text: "v26.4", link: "/updates/26-4-0" },
                     { text: "v26.3", link: "/updates/26-3-0" },
                     { text: "v26.2.1", link: "/updates/26-2-1" },
