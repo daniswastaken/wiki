@@ -5,7 +5,7 @@ title: Redirecting...
 
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.replace('/updates/26-4-0')
+  window.location.replace('/updates/26-5-0')
 }
 </script>
 
