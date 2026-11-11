@@ -191,12 +191,7 @@ export default defineConfig({
                 name: 'Bedrock Perfected Wiki',
                 alternateName: 'Bedrock Perfected',
                 description: defaultDesc,
-                url: SITE_URL,
-                potentialAction: {
-                    '@type': 'SearchAction',
-                    target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/?search={search_term_string}` },
-                    'query-input': 'required name=search_term_string'
-                }
+                url: SITE_URL
             }
             : {
                 '@context': 'https://schema.org',
